@@ -3,11 +3,14 @@
   box-sizing: border-box;
 }
 
+.main-header {
+  background-color: #DBE0E0;
+}
+
 #gallery {
   margin: 0;
   padding: 0;
   list-style: none;
-  background-color: #DBE0E0;
 }
 
 #gallery li {
