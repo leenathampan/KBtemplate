@@ -1,12 +1,12 @@
 
-* {
-  box-sizing: border-box;
-}
+@media screen and (min-width: 480px) {
 
-#gallery li {
+  #gallery li {
    width: 28.3333%;
  }
 
  #gallery li:nth-child(4n) {
    clear: left;
  }
+
+}
