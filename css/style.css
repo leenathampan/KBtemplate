@@ -3,6 +3,11 @@
   box-sizing: border-box;
 }
 
+body {
+	font-family: 'Varela Round', sans-serif;
+	line-height: 1.6;
+}
+
 .main-header {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
